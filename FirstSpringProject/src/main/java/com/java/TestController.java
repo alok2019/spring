@@ -2,7 +2,7 @@ package com.java;
 
 public class TestController {
 
-  public void getProducts(float a, String b){
+  public void getProducts(String a, float b){
     System.out.println("getAllProducts");
   }
 }
