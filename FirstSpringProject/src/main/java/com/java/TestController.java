@@ -3,7 +3,7 @@ package com.java;
 public class TestController {
   
   public void getProducts(){
-    System.out.println("getProducts");
+    System.out.println("getAllProducts");
   }
 
 }
